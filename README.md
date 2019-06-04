@@ -14,8 +14,22 @@ Don't expect much yet as this is in very early development.
 
 ## Usage & Installations
 
-### launchpad_py
+### Installing launchpad_py
 
 #### Install using Pip from PyPI
 
     pip install launchpad_py
+
+or
+
+    sudo pip install launchpad_py
+
+### Installing pygame
+
+#### Install using Pip from PyPI
+
+    pip install pygame
+
+or
+
+    sudo pip install pygame
