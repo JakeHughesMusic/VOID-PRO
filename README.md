@@ -11,3 +11,11 @@ Requires pygame - Pip install pygame
 Requires tqdm - Pip install tqdm
 
 Don't expect much yet as this is in very early development.
+
+## Usage & Installations
+
+### launchpad_py
+
+#### Install using Pip from PyPI
+
+    pip install launchpad_py
